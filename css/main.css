@@ -17,6 +17,12 @@ body {
 	border: solid 5px rgb(11, 202, 138)
 }
 
+#digital-clock {
+	position:absolute;
+	align-items: top;
+	height: 600px;
+}
+
 #seconds-hand {
 	position: absolute;
 	height: 130px;
